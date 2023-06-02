@@ -29,6 +29,7 @@
 <div align="center">
 	🎈Cloud<br>
 	<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white" />
+	<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat&logo=oracle&logoColor=white" />
 </div>
 
 <div align="center">
