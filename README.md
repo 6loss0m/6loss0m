@@ -46,5 +46,5 @@
     
 ![6loss0m's github stats](https://github-readme-stats.vercel.app/api?username=6loss0m&show_icons=true)
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gsjang0807)](https://solved.ac/gsjang0807/) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talkingOrange&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6loss0m&layout=compact&theme=tokyonight)
 </div>
